@@ -1,4 +1,3 @@
-# CS_320
 
 ## Module Eight Reflection
 
